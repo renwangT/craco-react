@@ -10,6 +10,7 @@
 
 # production
 /build
+/analyzer
 
 # misc
 .DS_Store
